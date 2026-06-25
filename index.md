@@ -9,3 +9,5 @@ I'm Kevin. Currently chillin' 😊
 - Most of my bullet point lists are useless. Nor practical. Just amusing.
 
 _Turn back. Turn back now while you can_
+
+J/K - [portfolio here](https://chr0n1x.github.io/portfolio/)
