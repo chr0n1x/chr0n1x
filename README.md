@@ -8,3 +8,5 @@
 Started in ecommerce, fullstack, moved into SRE (still have code in prod!).
 
 Particularly fond of hardware & linux sys-admin things. Love Ruby. If that's not professional enough, golang and python then 😅
+
+[Portfolio and Ramblings Here](https://chr0n1x.github.io/portfolio/) - _note that some of the entries may lag behind my commits_ 😋
